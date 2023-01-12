@@ -6,7 +6,9 @@ class emaple:
         return 0
 
     def paul():
-        return 0
+        for i in range (10):
+            print("done")
+        return 1
 
     def jack():
         return 0
