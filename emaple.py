@@ -7,7 +7,7 @@ class emaple:
 
     def paul():
         for i in range (10):
-            print("done")
+            print("checking loop function")
         return 1
 
     def jack():
